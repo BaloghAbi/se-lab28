@@ -1,2 +1,2 @@
 # se-lab28
-Otthoni gyakorlásra
+Otthoni gyakorlásra branch-A
